@@ -3,7 +3,7 @@
 
 name: Build and deploy dotnet core app to Azure Function App - func-afv-test-001
 
-on: |+
+on:
   push:
     branches:
       - main
